@@ -1,0 +1,6 @@
+Column,Role,Description
+sepal_length_cm,Input Feature,Sepal length in centimetres
+sepal_width_cm,Input Feature,Sepal width in centimetres
+petal_length_cm,Input Feature,Petal length in centimetres
+petal_width_cm,Input Feature,Petal width in centimetres
+species,Target Variable,Categorical Iris flower species

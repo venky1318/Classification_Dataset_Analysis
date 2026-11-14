@@ -1,0 +1,4 @@
+target_class,sample_count,percentage
+setosa,50,33.33
+versicolor,50,33.33
+virginica,50,33.33
